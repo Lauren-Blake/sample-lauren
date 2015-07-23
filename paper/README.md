@@ -1,1 +1,3 @@
 # Smart Squaring
+
+GRRRRR
